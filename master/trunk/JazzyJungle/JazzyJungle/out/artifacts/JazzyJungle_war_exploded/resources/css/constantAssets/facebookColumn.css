@@ -1,0 +1,87 @@
+#facebookColumn p{
+    padding: 5px;
+    color: #3f154e;
+}
+
+#facebookColumn .facebookImage{
+    margin: 0 auto;
+    display: block;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+
+#facebookColumnWrap {
+    width: 200px;
+    height: 627px;
+    float: left;
+    margin: 0 auto;
+}
+
+#facebookColumn {
+    border-radius: 10px;
+    border: 1px solid #ebebeb;
+    margin: 5px;
+    height: 627px;
+    background-image:url("/resources/images/facebookColumnBackground.png");
+}
+
+#messageText{
+    font-size: 10px;
+    font-style: italic;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+#posts{
+    width: 175px;
+    border-radius: 15px;
+    border: 1px solid #0deb00;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 1px;
+    margin-bottom: 10px;
+
+    background: #c5deea; /* Old browsers */
+    background: -moz-linear-gradient(top,  #c5deea 0%, #8abbd7 31%, #066dab 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c5deea), color-stop(31%,#8abbd7), color-stop(100%,#066dab)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #c5deea 0%,#8abbd7 31%,#066dab 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #c5deea 0%,#8abbd7 31%,#066dab 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #c5deea 0%,#8abbd7 31%,#066dab 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #c5deea 0%,#8abbd7 31%,#066dab 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 ); /* IE6-9 */
+}
+
+#message {
+    width: 150px;
+    background: #efedf4;
+    border-radius: 15px;
+    border: 1px solid #fffff2;
+    margin-left: 10px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+#status {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#date {
+    font-weight: bold;
+    text-align: center;
+    font-size: 8px;
+    width: 150px;
+    height: 15px;
+    background: #efedf4;
+    border-radius: 15px;
+    border: 1px solid #fffcfc;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    line-height: 15px;
+}

@@ -1,0 +1,14 @@
+#headerwrap {
+    float: left;
+    margin: 0 auto;
+    width: 990px;
+}
+
+#header {
+    width: 990px;
+    height: 171px;
+    border-radius: 10px;
+    /*border: 1px solid #eb521f;*/
+    background-image: url("/resources/images/constantAssets/jazzyJungleHeader.png");
+    margin: 5px;
+}

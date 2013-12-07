@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json
+END
+named-facebook-type-short-form.json
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/named-facebook-type-short-form.json
+END
+story.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/story.json
+END
+user-with-hometown-v2.json
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/user-with-hometown-v2.json
+END
+post-with-comment-count-only.json
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/post-with-comment-count-only.json
+END
+user-with-hometown-v1.json
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/user-with-hometown-v1.json
+END
+post-with-empty-comments.json
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/post-with-empty-comments.json
+END
+nulls.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/nulls.json
+END
+basic-user.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/basic-user.json
+END
+numbers.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/numbers.json
+END
+number.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/number.json
+END
+post-with-likes-v2.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/post-with-likes-v2.json
+END
+post-with-likes-v1.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/post-with-likes-v1.json
+END
+user-with-photos.json
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/user-with-photos.json
+END
+nulls-in-list.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/nulls-in-list.json
+END
+users-with-affiliations.json
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/users-with-affiliations.json
+END
+conversation.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/conversation.json
+END
+post-with-normal-comments.json
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/post-with-normal-comments.json
+END
+tag.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/tag.json
+END
+tags.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/tags.json
+END
+empty-array-as-string.json
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/empty-array-as-string.json
+END
+incorrect-user-list.json
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/test/json/incorrect-user-list.json
+END

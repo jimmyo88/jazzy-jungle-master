@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception
+END
+FacebookJsonMappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookJsonMappingException.java
+END
+FacebookOAuthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookOAuthException.java
+END
+FacebookQueryParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookQueryParseException.java
+END
+FacebookResponseContentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookResponseContentException.java
+END
+FacebookExceptionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookExceptionMapper.java
+END
+FacebookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookException.java
+END
+FacebookGraphException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookGraphException.java
+END
+FacebookNetworkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookNetworkException.java
+END
+FacebookResponseStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/FacebookResponseStatusException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/exception/package-info.java
+END

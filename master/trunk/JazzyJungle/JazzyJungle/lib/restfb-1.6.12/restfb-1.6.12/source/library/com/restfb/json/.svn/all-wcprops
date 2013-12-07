@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json
+END
+JsonTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonTokener.java
+END
+JsonWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonWriter.java
+END
+JsonString.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonString.java
+END
+JsonException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonException.java
+END
+JsonObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonObject.java
+END
+JsonStringer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonStringer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/package-info.java
+END
+JsonArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/18/trunk/JazzyJungle/JazzyJungle/lib/restfb-1.6.12/restfb-1.6.12/source/library/com/restfb/json/JsonArray.java
+END

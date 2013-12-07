@@ -1,0 +1,137 @@
+@import url("/resources/css/constantAssets/header.css");
+@import url("/resources/css/constantAssets/navigation.css");
+@import url("/resources/css/constantAssets/facebookColumn.css");
+@import url("/resources/css/constantAssets/footer.css");
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+h1{
+    margin-left: 10px;
+}
+
+#leftContent p, #rightContent p {
+    padding: 10px;
+    color: #3f154e;
+    background-color: gainsboro;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ebebeb;
+    text-indent: 3em;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1100px;
+}
+
+#navigationwrap {
+    width: 1000px;
+    float: left;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+#contentwrap {
+    width: 800px;
+    float: left;
+    margin: 0 auto;
+}
+
+#leftContent #scroller{
+    width: 394px;
+    height: 627px;
+    padding-bottom: 15px;
+    overflow: scroll;
+
+}
+
+#leftContent {
+     background: #FFFFFF;
+     border-radius: 10px;
+     border: 1px solid #ebebeb;
+     margin: 5px;
+     width: 388px;
+     height: 627px;
+    float: left;
+    background-image: url("/resources/images/leftContentBackground.png");
+    overflow: hidden;
+
+ }
+
+#rightContent {
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #ebebeb;
+    margin: 5px;
+    width: 388px;
+    float: right;
+    height: 627px;
+    background-image: url("/resources/images/rightContentBackground.png");
+}
+
+#previewImage{
+    margin-top: 200px;
+    margin-left: 68px;
+    width: 250px;
+    height: 195px;
+}
+
+.rightContentImage{
+    margin: 0 auto;
+    width: 250px;
+    height: 195px;
+
+}
+.rightContentContainerImage, .rightHomeImage{
+    margin-top: 15px;
+    margin-left: 35px;
+    width: 250px;
+    height: 195px;
+    -webkit-border-radius: 30px; /* Saf3+, Chrome */
+    border-radius: 30px; /* Opera 10.5, IE 9 */
+    /*-moz-border-radius: 30px; Disabled for FF1+ */
+}
+
+
+.images{
+    margin: 0 auto;
+    width: 360px;
+    /*margin-top: 10px;*/
+}
+
+.anchorThumb{
+    display:block;
+    width: 100px;
+    height: 75px;
+    float: left;
+    margin:10px 10px 10px 10px;
+    border-radius: 5px;
+}
+
+.anchorThumbContainerImage{
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 100px;
+    height: 75px;
+
+    -webkit-border-radius: 30px; /* Saf3+, Chrome */
+    border-radius: 30px; /* Opera 10.5, IE 9 */
+}
+.anchorThumb:hover{
+    border:solid 1px #09C;
+}
+
+.selected{
+    border:solid 1px #09C;
+}
+
