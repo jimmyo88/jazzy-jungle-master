@@ -1,0 +1,124 @@
+@import url("/resources/css/constantAssets/header.css");
+@import url("/resources/css/constantAssets/navigation.css");
+@import url("/resources/css/constantAssets/facebookColumn.css");
+@import url("/resources/css/constantAssets/footer.css");
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+#leftContent p, #rightContent p {
+    padding: 10px;
+    color: #3f154e;
+    background-color: gainsboro;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ebebeb;
+    text-indent: 3em;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1100px;
+}
+
+#navigationwrap {
+    width: 1000px;
+    float: left;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+#contentwrap {
+    width: 800px;
+    float: left;
+    margin: 0 auto;
+}
+
+#leftContent {
+     background: #FFFFFF;
+     border-radius: 10px;
+     border: 1px solid #ebebeb;
+     margin: 5px;
+     width: 388px;
+     height: 627px;
+    float: left;
+    background-image: url("/resources/images/leftContentBackground.png");
+
+ }
+
+#rightContent {
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #ebebeb;
+    margin: 5px;
+    width: 388px;
+    float: right;
+    height: 627px;
+    background-image: url("/resources/images/rightContentBackground.png");
+}
+
+.rightContentContainerImage{
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 250px;
+    height: 195px;
+
+}
+.rightContentContainerImage, .rightHomeImage{
+    margin-top: 15px;
+    margin-left: 35px;
+    width: 250px;
+    height: 195px;
+    -webkit-border-radius: 30px; /* Saf3+, Chrome */
+    border-radius: 30px; /* Opera 10.5, IE 9 */
+    /*-moz-border-radius: 30px; Disabled for FF1+ */
+}
+
+.rightContentContainerImage, .rightBottomHomeImage{
+    margin-top: 50px;
+    margin-left: 35px;
+    width: 250px;
+    height: 195px;
+    -webkit-border-radius: 30px; /* Saf3+, Chrome */
+    border-radius: 30px; /* Opera 10.5, IE 9 */
+    /*-moz-border-radius: 30px; Disabled for FF1+ */
+}
+
+.leftContentContainerImage{
+    margin-top: 5px;
+    margin-left: 100px;
+    width: 175px;
+    height: 250px;
+
+}
+.leftContentContainerImage, .leftHomeImage{
+    margin-top: 5px;
+    margin-left: 100px;
+    width: 175px;
+    height: 250px;
+    -webkit-border-radius: 30px; /* Saf3+, Chrome */
+    border-radius: 30px; /* Opera 10.5, IE 9 */
+    /*-moz-border-radius: 30px; Disabled for FF1+ */
+}
+
+#rightcolumnwrap {
+    width: 200px;
+    height: 607px;
+    float: left;
+    margin: 0 auto;
+
+}
+
+#rightColumn {
+    border-radius: 10px;
+    height: 607px;
+    margin: 5px;
+    background-image: url("/resources/images/rightColumnBackground.png");
+}
+

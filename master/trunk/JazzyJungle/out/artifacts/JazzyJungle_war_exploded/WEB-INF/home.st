@@ -1,0 +1,1 @@
+$defaultLayout(body=welcome())$

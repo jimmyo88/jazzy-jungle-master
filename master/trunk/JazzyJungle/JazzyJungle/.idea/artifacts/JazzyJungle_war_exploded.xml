@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JazzyJungle:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JazzyJungle_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JazzyJungle/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JazzyJungle" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/stringtemplate-3.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/antlr-2.7.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/restfb-1.6.12/restfb-1.6.12/restfb-1.6.12.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/google-collections-0.9.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/google-gson-2.2.4-release/gson-2.2.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/google-gson-2.2.4-release/gson-2.2.4-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/google-gson-2.2.4-release/gson-2.2.4-sources.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
