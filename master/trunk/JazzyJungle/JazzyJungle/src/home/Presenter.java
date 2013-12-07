@@ -12,6 +12,5 @@ import javax.servlet.http.HttpServletResponse;
  */
 public interface Presenter {
     public void execute(HttpServletRequest request, HttpServletResponse response);
-    public String getReturnPage();
     public void init(HttpServletRequest request, HttpServletResponse response);
 }
